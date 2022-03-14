@@ -37,7 +37,7 @@ add_subdirectory(external/SDL)
 
 # Add samples
 add_subdirectory(01-Window)
-# add_subdirectory(02-OGLTriangle)
+add_subdirectory(02-OGL-Triangle)
 # add_subdirectory(03-D3D12Triangle)
 # add_subdirectory(04-VulkanTriangle)
 # add_subdirectory(05-2D-Drawing)
