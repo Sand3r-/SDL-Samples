@@ -15,3 +15,9 @@ Presents how to initialise and create a window with an OpenGL context
 Presents how to initialise and create a window with an DirectX12 context
 
 ![image](images/03d3d12.png)
+
+# 04-Vulkan-Triangle
+Presents how to initialise and create a window with a Vulkan context and use
+SDL's specific Vulkan functions listed [here](https://wiki.libsdl.org/CategoryVulkan).
+
+![image](images/04vk.png)
